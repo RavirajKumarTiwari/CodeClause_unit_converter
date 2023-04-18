@@ -34,7 +34,7 @@ To use the Unit Converter, select the type of unit you want to convert (length, 
 
 ## Preview
 
-![Unit Converter Preview](unitConverter%20Preview.png)
+![Unit Converter Preview](unitConverterPreview.png)
 
 ## Technologies used
 
