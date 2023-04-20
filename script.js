@@ -1,4 +1,5 @@
-function changeTab(evt, tab){
+// For tab changes
+function changeTab(evt, tab) {
 	let i, tabContent, tabButton;
 
 	document.getElementById("active").click();
